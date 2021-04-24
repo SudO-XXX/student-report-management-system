@@ -1,0 +1,314 @@
+1,Khaled Ahmed,eec,giza,aa aa,11221,6,100,95.5,34.5,52,70,80,C,72
+2,khaled Atef,eee,giza,bb bb,11220,5,99,95.5,34.5,52,70,C,70.2
+3,Khaled soulm,aee,giza,aa aa,11219,6,100,95.5,34.5,52,70,80,C,72
+4,Rana ali,mpe,giza,bb bb,11218,5,97,95.5,34.5,52,70,C,69.8
+5,hosam mohamed,eec,giza,aa aa,11217,5,96,95.5,34.5,52,70,C,69.6
+6,altayer ebn la ahd,eee,giza,bb bb,11216,5,95,95.5,34.5,52,70,C,69.4
+7,Khaled Ahmed,aee,giza,aa aa,11215,5,94,95.5,34.5,52,70,C,69.2
+8,khaled Atef,mpe,giza,bb bb,11214,5,93,95.5,34.5,52,70,C,69
+9,Khaled soulm,eec,giza,aa aa,11213,5,92,95.5,34.5,52,70,C,68.8
+10,Rana ali,eee,giza,bb bb,11212,5,91,95.5,34.5,52,70,C,68.6
+11,hosam mohamed,aee,giza,aa aa,11211,5,90,95.5,34.5,52,70,C,68.4
+12,altayer ebn la ahd,mpe,giza,bb bb,11210,5,89,95.5,34.5,52,70,C,68.2
+13,Khaled Ahmed,eec,giza,aa aa,11209,5,88,95.5,34.5,52,70,C,68
+14,khaled Atef,eee,giza,bb bb,11208,5,87,95.5,34.5,52,70,C,67.8
+15,Khaled soulm,aee,giza,aa aa,11207,5,86,95.5,34.5,52,70,C,67.6
+16,Rana ali,mpe,giza,bb bb,11206,5,85,95.5,34.5,52,70,C,67.4
+17,hosam mohamed,eec,giza,aa aa,11205,5,84,95.5,34.5,52,70,C,67.2
+18,altayer ebn la ahd,eee,giza,bb bb,11204,5,83,95.5,34.5,52,70,C,67
+19,Khaled Ahmed,aee,giza,aa aa,11203,5,82,95.5,34.5,52,70,C,66.8
+20,khaled Atef,mpe,giza,bb bb,11202,5,81,95.5,34.5,52,70,C,66.6
+21,Khaled soulm,eec,giza,aa aa,11201,5,80,95.5,34.5,52,70,C,66.4
+22,Rana ali,eee,giza,bb bb,11200,5,79,95.5,34.5,52,70,C,66.2
+23,hosam mohamed,aee,giza,aa aa,11199,5,78,95.5,34.5,52,70,C,66
+24,altayer ebn la ahd,mpe,giza,re,11198,5,77,95.5,34.5,52,70,C,65.8
+25,Khaled Ahmed,eec,giza,re,11197,5,76,95.5,34.5,52,70,C,65.6
+26,khaled Atef,eee,giza,re,11196,5,75,95.5,34.5,52,70,C,65.4
+27,Khaled soulm,aee,giza,re,11195,5,74,95.5,34.5,52,70,C,65.2
+28,Rana ali,mpe,giza,re,11194,5,73,95.5,34.5,52,70,C,65
+29,hosam mohamed,eec,giza,re,11193,5,72,95.5,34.5,52,70,D,64.8
+30,altayer ebn la ahd,eee,giza,re,11192,5,71,95.5,34.5,52,70,D,64.6
+31,Khaled Ahmed,aee,giza,re,11191,5,70,95.5,34.5,52,70,D,64.4
+32,khaled Atef,mpe,giza,re,11190,5,69,95.5,34.5,52,70,D,64.2
+33,Khaled soulm,eec,giza,re,11189,5,68,95.5,34.5,52,70,D,64
+34,Rana ali,eee,giza,re,11188,5,67,95.5,34.5,52,70,D,63.8
+35,hosam mohamed,aee,giza,re,11187,5,66,95.5,34.5,52,70,D,63.6
+36,altayer ebn la ahd,mpe,giza,re,11186,5,65,95.5,34.5,52,70,D,63.4
+37,Khaled Ahmed,eec,giza,re,11185,5,64,95.5,34.5,52,70,D,63.2
+38,khaled Atef,eee,giza,re,11184,5,63,95.5,34.5,52,70,D,63
+39,Khaled soulm,aee,giza,re,11183,5,62,95.5,34.5,52,70,D,62.8
+40,Rana ali,mpe,giza,re,11182,5,61,95.5,34.5,52,70,D,62.6
+41,hosam mohamed,eec,giza,re,11181,5,60,95.5,34.5,52,70,D,62.4
+42,altayer ebn la ahd,eee,giza,re,11180,5,59,95.5,34.5,52,70,D,62.2
+43,Khaled Ahmed,aee,giza,re,11179,5,58,95.5,34.5,52,70,D,62
+44,khaled Atef,mpe,giza,re,11178,5,57,95.5,34.5,52,70,D,61.8
+45,Khaled soulm,eec,giza,re,11177,5,56,95.5,34.5,52,70,D,61.6
+46,Rana ali,eee,giza,re,11176,5,55,95.5,34.5,52,70,D,61.4
+47,hosam mohamed,aee,giza,re,11175,5,54,95.5,34.5,52,70,D,61.2
+48,altayer ebn la ahd,mpe,giza,re,11174,5,53,95.5,34.5,52,70,D,61
+49,Khaled Ahmed,eec,giza,re,11173,5,52,95.5,34.5,52,70,D,60.8
+50,khaled Atef,eee,giza,re,11172,5,51,95.5,34.5,52,70,D,60.6
+51,Khaled soulm,aee,giza,re,11171,5,50,95.5,34.5,52,70,D,60.4
+52,Rana ali,mpe,giza,re,11170,5,49,95.5,34.5,52,70,D,60.2
+53,hosam mohamed,eec,giza,re,11169,5,48,95.5,34.5,52,70,D,60
+54,altayer ebn la ahd,eee,giza,re,11168,5,47,95.5,34.5,52,70,D,59.8
+55,Khaled Ahmed,aee,giza,re,11167,5,46,95.5,34.5,52,70,D,59.6
+56,khaled Atef,mpe,giza,re,11166,5,45,95.5,34.5,52,70,D,59.4
+57,Khaled soulm,eec,giza,re,11165,5,44,95.5,34.5,52,70,D,59.2
+58,Rana ali,eee,giza,re,11164,5,43,95.5,34.5,52,70,D,59
+59,hosam mohamed,aee,giza,re,11163,5,42,95.5,34.5,52,70,D,58.8
+60,altayer ebn la ahd,mpe,giza,re,11162,5,41,95.5,34.5,52,70,D,58.6
+61,Khaled Ahmed,eec,giza,re,11161,5,40,95.5,34.5,52,70,D,58.4
+62,khaled Atef,eee,giza,re,11160,5,39,95.5,34.5,52,70,D,58.2
+63,Khaled soulm,aee,giza,re,11159,5,38,95.5,34.5,52,70,D,58
+64,Rana ali,mpe,giza,re,11158,5,37,95.5,34.5,52,70,D,57.8
+65,hosam mohamed,eec,giza,re,11157,5,36,95.5,34.5,52,70,D,57.6
+66,altayer ebn la ahd,eee,giza,re,11156,5,35,95.5,34.5,52,70,D,57.4
+67,Khaled Ahmed,aee,giza,re,11155,5,34,95.5,34.5,52,70,D,57.2
+68,khaled Atef,mpe,giza,re,11154,5,33,95.5,34.5,52,70,D,57
+69,Khaled soulm,eec,giza,re,11153,5,32,95.5,34.5,52,70,D,56.8
+70,Rana ali,eee,giza,re,11152,5,31,95.5,34.5,52,70,D,56.6
+71,hosam mohamed,aee,giza,re,11151,5,30,95.5,34.5,52,70,D,56.4
+72,altayer ebn la ahd,mpe,giza,re,11150,5,29,95.5,34.5,52,70,D,56.2
+73,Khaled Ahmed,eec,giza,re,11149,5,28,95.5,34.5,52,70,D,56
+74,khaled Atef,eee,giza,re,11148,5,27,95.5,34.5,52,70,D,55.8
+75,Khaled soulm,aee,giza,re,11147,5,26,95.5,34.5,52,70,D,55.6
+76,Rana ali,mpe,giza,re,11146,5,25,95.5,34.5,52,70,D,55.4
+77,hosam mohamed,eec,giza,re,11145,5,24,95.5,34.5,52,70,D,55.2
+78,altayer ebn la ahd,eee,giza,re,11144,5,55,95.5,34.5,52,70,D,61.4
+79,Khaled Ahmed,aee,giza,re,11143,5,56,95.5,34.5,52,70,D,61.6
+80,khaled Atef,mpe,giza,re,11142,5,57,95.5,34.5,52,70,D,61.8
+81,Khaled soulm,eec,giza,re,11141,5,58,95.5,34.5,52,70,D,62
+82,Rana ali,eee,giza,re,11140,5,59,95.5,34.5,52,70,D,62.2
+83,hosam mohamed,aee,giza,re,11139,5,60,95.5,34.5,52,70,D,62.4
+84,altayer ebn la ahd,mpe,giza,re,11138,5,61,95.5,34.5,52,70,D,62.6
+85,Khaled Ahmed,eec,giza,re,11137,5,62,95.5,34.5,52,70,D,62.8
+86,khaled Atef,eee,giza,re,11136,5,63,95.5,34.5,52,70,D,63
+87,Khaled soulm,aee,giza,re,11135,5,64,95.5,34.5,52,70,D,63.2
+88,Rana ali,mpe,giza,re,11134,5,65,95.5,34.5,52,70,D,63.4
+89,hosam mohamed,eec,giza,re,11133,5,66,95.5,34.5,52,70,D,63.6
+90,altayer ebn la ahd,eee,giza,re,11132,5,67,95.5,34.5,52,70,D,63.8
+91,Khaled Ahmed,aee,giza,re,11131,5,68,95.5,34.5,52,70,D,64
+92,khaled Atef,mpe,giza,re,11130,5,69,95.5,34.5,52,70,D,64.2
+93,Khaled soulm,eec,giza,re,11129,5,70,95.5,34.5,52,70,D,64.4
+94,Rana ali,eee,giza,re,11128,5,71,95.5,34.5,52,70,D,64.6
+95,hosam mohamed,aee,giza,re,11127,5,72,95.5,34.5,52,70,D,64.8
+96,altayer ebn la ahd,mpe,giza,re,11126,5,73,95.5,34.5,52,70,C,65
+97,Khaled Ahmed,eec,giza,re,11125,5,74,95.5,34.5,52,70,C,65.2
+98,khaled Atef,eee,giza,re,11124,5,75,95.5,34.5,52,70,C,65.4
+99,Khaled soulm,aee,giza,re,11123,5,76,95.5,34.5,52,70,C,65.6
+100,Rana ali,mpe,giza,re,11122,5,77,95.5,34.5,52,70,C,65.8
+101,hosam mohamed,eec,giza,re,11121,5,78,95.5,34.5,52,70,C,66
+102,altayer ebn la ahd,eee,giza,re,11120,5,79,95.5,34.5,52,70,C,66.2
+103,Khaled Ahmed,aee,giza,re,11119,5,80,95.5,34.5,52,70,C,66.4
+104,khaled Atef,mpe,giza,re,11118,5,81,95.5,34.5,52,70,C,66.6
+105,Khaled soulm,eec,giza,re,11117,5,82,95.5,34.5,52,70,C,66.8
+106,Rana ali,eee,giza,re,11116,5,81,95.5,34.5,52,70,C,66.6
+107,hosam mohamed,aee,giza,re,11115,5,82,95.5,34.5,52,70,C,66.8
+108,altayer ebn la ahd,mpe,giza,re,11114,5,83,95.5,34.5,52,70,C,67
+109,Khaled Ahmed,eec,giza,re,11113,5,84,95.5,34.5,52,70,C,67.2
+110,khaled Atef,eee,giza,re,11112,5,85,95.5,34.5,52,70,C,67.4
+111,Khaled soulm,aee,giza,re,11111,5,86,95.5,34.5,52,70,C,67.6
+112,Rana ali,mpe,giza,re,11110,5,87,95.5,34.5,52,70,C,67.8
+113,hosam mohamed,eec,giza,re,11109,5,88,95.5,34.5,52,70,C,68
+114,altayer ebn la ahd,eee,giza,re,11108,5,89,95.5,34.5,52,70,C,68.2
+115,Khaled Ahmed,aee,giza,re,11107,5,90,95.5,34.5,52,70,C,68.4
+116,khaled Atef,mpe,giza,re,11106,5,91,95.5,34.5,52,70,C,68.6
+117,Khaled soulm,eec,giza,re,11105,5,92,95.5,34.5,52,70,C,68.8
+118,Rana ali,eee,giza,re,11104,5,93,95.5,34.5,52,70,C,69
+119,hosam mohamed,aee,giza,re,11103,5,94,95.5,34.5,52,70,C,69.2
+120,altayer ebn la ahd,mpe,giza,re,11102,5,95,95.5,34.5,52,70,C,69.4
+121,Khaled Ahmed,eec,giza,re,11101,5,96,95.5,34.5,52,70,C,69.6
+122,khaled Atef,eee,giza,re,11100,5,97,95.5,34.5,52,70,C,69.8
+123,Khaled soulm,aee,giza,re,11099,5,98,95.5,34.5,52,70,C,70
+124,Rana ali,mpe,giza,re,11098,5,100,95.5,34.5,52,70,C,70.4
+125,hosam mohamed,eec,giza,re,11097,5,100,95.5,34.5,52,70,C,70.4
+126,altayer ebn la ahd,eee,giza,re,11096,5,100,95.5,34.5,52,70,C,70.4
+127,Khaled Ahmed,aee,giza,re,11095,5,100,95.5,34.5,52,70,C,70.4
+128,khaled Atef,mpe,giza,re,11094,5,100,95.5,34.5,52,70,C,70.4
+129,Khaled soulm,eec,giza,re,11093,5,100,95.5,34.5,52,70,C,70.4
+130,Rana ali,eee,giza,re,11092,5,100,95.5,34.5,52,70,C,70.4
+131,hosam mohamed,aee,giza,re,11091,5,100,95.5,34.5,52,70,C,70.4
+132,altayer ebn la ahd,mpe,giza,re,11090,5,100,95.5,34.5,52,70,C,70.4
+133,Khaled Ahmed,eec,giza,re,11089,5,100,95.5,34.5,52,70,C,70.4
+134,khaled Atef,eee,giza,re,11088,5,100,95.5,34.5,52,70,C,70.4
+135,Khaled soulm,aee,giza,re,11087,5,100,95.5,34.5,52,70,C,70.4
+136,Rana ali,mpe,giza,re,11086,5,100,95.5,34.5,52,70,C,70.4
+137,hosam mohamed,eec,giza,re,11085,5,100,95.5,34.5,52,70,C,70.4
+138,altayer ebn la ahd,eee,giza,re,11084,5,100,95.5,34.5,52,70,C,70.4
+139,Khaled Ahmed,aee,giza,re,11083,5,100,95.5,34.5,52,70,C,70.4
+140,khaled Atef,mpe,giza,re,11082,5,100,95.5,34.5,52,70,C,70.4
+141,Khaled soulm,eec,giza,re,11081,5,100,95.5,34.5,52,70,C,70.4
+142,Rana ali,eee,giza,re,11080,5,100,95.5,34.5,52,70,C,70.4
+143,hosam mohamed,aee,giza,re,11079,5,100,95.5,34.5,52,70,C,70.4
+144,altayer ebn la ahd,mpe,giza,re,11078,5,100,95.5,34.5,52,70,C,70.4
+145,Khaled Ahmed,eec,giza,re,11077,5,100,95.5,34.5,52,70,C,70.4
+146,khaled Atef,eee,giza,re,11076,5,100,95.5,34.5,52,70,C,70.4
+147,Khaled soulm,aee,giza,re,11075,5,100,95.5,34.5,52,70,C,70.4
+148,Rana ali,mpe,giza,re,11074,5,100,95.5,34.5,52,70,C,70.4
+149,hosam mohamed,eec,giza,re,11073,5,100,95.5,34.5,52,70,C,70.4
+150,altayer ebn la ahd,eee,giza,re,11072,5,100,95.5,34.5,52,70,C,70.4
+151,Khaled Ahmed,aee,giza,re,11071,5,100,95.5,34.5,52,70,C,70.4
+152,khaled Atef,mpe,giza,re,11070,5,100,95.5,34.5,52,70,C,70.4
+153,Khaled soulm,eec,giza,re,11069,5,100,95.5,34.5,52,70,C,70.4
+154,Rana ali,eee,giza,re,11068,5,100,95.5,34.5,52,70,C,70.4
+155,hosam mohamed,aee,giza,re,11067,5,100,95.5,34.5,52,70,C,70.4
+156,altayer ebn la ahd,mpe,giza,re,11066,5,100,95.5,34.5,52,70,C,70.4
+157,Khaled Ahmed,eec,giza,re,11065,5,100,95.5,34.5,52,70,C,70.4
+158,khaled Atef,eee,giza,re,11064,5,100,95.5,34.5,52,70,C,70.4
+159,Khaled soulm,aee,giza,re,11063,5,100,95.5,34.5,52,70,C,70.4
+160,Rana ali,mpe,giza,re,11062,5,100,95.5,34.5,52,70,C,70.4
+161,hosam mohamed,eec,giza,re,11061,5,100,95.5,34.5,52,70,C,70.4
+162,altayer ebn la ahd,eee,giza,re,11060,5,100,95.5,34.5,52,70,C,70.4
+163,Khaled Ahmed,aee,giza,re,11059,5,100,95.5,34.5,52,70,C,70.4
+164,khaled Atef,mpe,giza,re,11058,5,100,95.5,34.5,52,70,C,70.4
+165,Khaled soulm,eec,giza,re,11057,5,100,95.5,34.5,52,70,C,70.4
+166,Rana ali,eee,giza,re,11056,5,100,95.5,34.5,52,70,C,70.4
+167,hosam mohamed,aee,giza,re,11055,5,100,95.5,34.5,52,70,C,70.4
+168,altayer ebn la ahd,mpe,giza,re,11054,5,100,95.5,34.5,52,70,C,70.4
+169,Khaled Ahmed,eec,giza,re,11053,5,100,95.5,34.5,52,70,C,70.4
+170,khaled Atef,eee,giza,re,11052,5,100,95.5,34.5,52,70,C,70.4
+171,Khaled soulm,aee,giza,re,11051,5,100,95.5,34.5,52,70,C,70.4
+172,Rana ali,mpe,giza,re,11050,5,100,95.5,34.5,52,70,C,70.4
+173,hosam mohamed,eec,giza,re,11049,5,100,95.5,34.5,52,70,C,70.4
+174,altayer ebn la ahd,eee,giza,re,11048,5,100,95.5,34.5,52,70,C,70.4
+175,Khaled Ahmed,aee,giza,re,11047,5,100,95.5,34.5,52,70,C,70.4
+176,khaled Atef,mpe,giza,re,11046,5,100,95.5,34.5,52,70,C,70.4
+177,Khaled soulm,eec,giza,re,11045,5,100,95.5,34.5,52,70,C,70.4
+178,Rana ali,eee,giza,re,11044,5,100,95.5,34.5,52,70,C,70.4
+179,hosam mohamed,aee,giza,re,11043,5,100,95.5,34.5,52,70,C,70.4
+180,altayer ebn la ahd,mpe,giza,re,11042,5,100,95.5,34.5,52,70,C,70.4
+181,Khaled Ahmed,eec,giza,re,11041,5,100,95.5,34.5,52,70,C,70.4
+182,khaled Atef,eee,giza,re,11040,5,100,95.5,34.5,52,70,C,70.4
+183,Khaled soulm,aee,giza,re,11039,5,100,95.5,34.5,52,70,C,70.4
+184,Rana ali,mpe,giza,re,11038,5,100,95.5,34.5,52,70,C,70.4
+185,hosam mohamed,eec,giza,re,11037,5,100,95.5,34.5,52,70,C,70.4
+186,altayer ebn la ahd,eee,giza,re,11036,5,100,95.5,34.5,52,70,C,70.4
+187,Khaled Ahmed,aee,giza,re,11035,5,100,95.5,34.5,52,70,C,70.4
+188,khaled Atef,mpe,giza,re,11034,5,100,95.5,34.5,52,70,C,70.4
+189,Khaled soulm,eec,giza,re,11033,5,100,95.5,34.5,52,70,C,70.4
+190,Rana ali,eee,giza,re,11032,5,100,95.5,34.5,52,70,C,70.4
+191,hosam mohamed,aee,giza,re,11031,5,100,95.5,34.5,52,70,C,70.4
+192,altayer ebn la ahd,mpe,giza,re,11030,5,100,95.5,34.5,52,70,C,70.4
+193,Khaled Ahmed,eec,giza,re,11029,5,100,95.5,34.5,52,70,C,70.4
+194,khaled Atef,eee,giza,re,11028,5,100,95.5,34.5,52,70,C,70.4
+195,Khaled soulm,aee,giza,re,11027,5,100,95.5,34.5,52,70,C,70.4
+196,Rana ali,mpe,giza,re,11026,5,100,95.5,34.5,52,70,C,70.4
+197,hosam mohamed,eec,giza,re,11025,5,100,95.5,34.5,52,70,C,70.4
+198,altayer ebn la ahd,eee,giza,re,11024,5,100,95.5,34.5,52,70,C,70.4
+199,Khaled Ahmed,aee,giza,re,11023,5,100,95.5,34.5,52,70,C,70.4
+200,khaled Atef,mpe,giza,re,11022,5,100,95.5,34.5,52,70,C,70.4
+201,Khaled soulm,eec,giza,re,11021,5,100,95.5,34.5,52,70,C,70.4
+202,Rana ali,eee,giza,re,11020,5,100,95.5,34.5,52,70,C,70.4
+203,hosam mohamed,aee,giza,re,11019,5,100,95.5,34.5,52,70,C,70.4
+204,altayer ebn la ahd,mpe,giza,re,11018,5,100,95.5,34.5,52,70,C,70.4
+205,Khaled Ahmed,eec,giza,re,11017,5,100,95.5,34.5,52,70,C,70.4
+206,khaled Atef,eee,giza,re,11016,5,100,95.5,34.5,52,70,C,70.4
+207,Khaled soulm,aee,giza,re,11015,5,100,95.5,34.5,52,70,C,70.4
+208,Rana ali,mpe,giza,re,11014,5,100,95.5,34.5,52,70,C,70.4
+209,hosam mohamed,eec,giza,re,11013,5,100,95.5,34.5,52,70,C,70.4
+210,altayer ebn la ahd,eee,giza,re,11012,5,100,95.5,34.5,52,70,C,70.4
+211,Khaled Ahmed,aee,giza,re,11011,5,100,95.5,34.5,52,70,C,70.4
+212,khaled Atef,mpe,giza,re,11010,5,100,95.5,34.5,52,70,C,70.4
+213,Khaled soulm,eec,giza,re,11009,5,100,95.5,34.5,52,70,C,70.4
+214,Rana ali,eee,giza,re,11008,5,100,95.5,34.5,52,70,C,70.4
+215,hosam mohamed,aee,giza,re,11007,5,100,95.5,34.5,52,70,C,70.4
+216,altayer ebn la ahd,mpe,giza,re,11006,5,100,95.5,34.5,52,70,C,70.4
+217,Khaled Ahmed,eec,giza,re,11005,5,100,95.5,34.5,52,70,C,70.4
+218,khaled Atef,eee,giza,re,11004,5,100,95.5,34.5,52,70,C,70.4
+219,Khaled soulm,aee,giza,re,11003,5,100,95.5,34.5,52,70,C,70.4
+220,Rana ali,mpe,giza,re,11002,5,100,95.5,34.5,52,70,C,70.4
+221,hosam mohamed,eec,giza,re,11001,5,100,95.5,34.5,52,70,C,70.4
+222,altayer ebn la ahd,eee,giza,re,11000,5,100,95.5,34.5,52,70,C,70.4
+223,Khaled Ahmed,aee,giza,re,10999,5,100,95.5,34.5,52,70,C,70.4
+224,khaled Atef,mpe,giza,re,10998,5,100,95.5,34.5,52,70,C,70.4
+225,Khaled soulm,eec,giza,re,10997,5,100,95.5,34.5,52,70,C,70.4
+226,Rana ali,eee,giza,re,10996,5,100,95.5,34.5,52,70,C,70.4
+227,hosam mohamed,aee,giza,re,10995,5,100,95.5,34.5,52,70,C,70.4
+228,altayer ebn la ahd,mpe,giza,re,10994,5,100,95.5,34.5,52,70,C,70.4
+229,Khaled Ahmed,eec,giza,re,10993,5,100,95.5,34.5,52,70,C,70.4
+230,khaled Atef,eee,giza,re,10992,5,100,95.5,34.5,52,70,C,70.4
+231,Khaled soulm,aee,giza,re,10991,5,100,95.5,34.5,52,70,C,70.4
+232,Rana ali,mpe,giza,re,10990,5,100,95.5,34.5,52,70,C,70.4
+233,hosam mohamed,eec,giza,re,10989,5,100,95.5,34.5,52,70,C,70.4
+234,altayer ebn la ahd,eee,giza,re,10988,5,100,95.5,34.5,52,70,C,70.4
+235,Khaled Ahmed,aee,giza,re,10987,5,100,95.5,34.5,52,70,C,70.4
+236,khaled Atef,mpe,giza,re,10986,5,100,95.5,34.5,52,70,C,70.4
+237,Khaled soulm,eec,giza,re,10985,5,100,95.5,34.5,52,70,C,70.4
+238,Rana ali,eee,giza,re,10984,5,100,95.5,34.5,52,70,C,70.4
+239,hosam mohamed,aee,giza,re,10983,5,100,95.5,34.5,52,70,C,70.4
+240,altayer ebn la ahd,mpe,giza,re,10982,5,100,95.5,34.5,52,70,C,70.4
+241,Khaled Ahmed,eec,giza,re,10981,5,100,95.5,34.5,52,70,C,70.4
+242,khaled Atef,eee,giza,re,10980,5,100,95.5,34.5,52,70,C,70.4
+243,Khaled soulm,aee,giza,re,10979,5,100,95.5,34.5,52,70,C,70.4
+244,Rana ali,mpe,giza,re,10978,5,100,95.5,34.5,52,70,C,70.4
+245,hosam mohamed,eec,giza,re,10977,5,100,95.5,34.5,52,70,C,70.4
+246,altayer ebn la ahd,eee,giza,re,10976,5,100,95.5,34.5,52,70,C,70.4
+247,Khaled Ahmed,aee,giza,re,10975,5,100,95.5,34.5,52,70,C,70.4
+248,khaled Atef,mpe,giza,re,10974,5,100,95.5,34.5,52,70,C,70.4
+249,Khaled soulm,eec,giza,re,10973,5,100,95.5,34.5,52,70,C,70.4
+250,Rana ali,eee,giza,re,10972,5,100,95.5,34.5,52,70,C,70.4
+251,hosam mohamed,aee,giza,re,10971,5,100,95.5,34.5,52,70,C,70.4
+252,altayer ebn la ahd,mpe,giza,re,10970,5,100,95.5,34.5,52,70,C,70.4
+253,Khaled Ahmed,eec,giza,re,10969,5,100,95.5,34.5,52,70,C,70.4
+254,khaled Atef,eee,giza,re,10968,5,100,95.5,34.5,52,70,C,70.4
+255,Khaled soulm,aee,giza,re,10967,5,100,95.5,34.5,52,70,C,70.4
+256,Rana ali,mpe,giza,re,10966,5,100,95.5,34.5,52,70,C,70.4
+257,hosam mohamed,eec,giza,re,10965,5,100,95.5,34.5,52,70,C,70.4
+258,altayer ebn la ahd,eee,giza,re,10964,5,100,95.5,34.5,52,70,C,70.4
+259,Khaled Ahmed,aee,giza,re,10963,5,100,95.5,34.5,52,70,C,70.4
+260,khaled Atef,mpe,giza,re,10962,5,100,95.5,34.5,52,70,C,70.4
+261,Khaled soulm,eec,giza,re,10961,5,100,95.5,34.5,52,70,C,70.4
+262,Rana ali,eee,giza,re,10960,5,100,95.5,34.5,52,70,C,70.4
+263,hosam mohamed,aee,giza,re,10959,5,100,95.5,34.5,52,70,C,70.4
+264,altayer ebn la ahd,mpe,giza,re,10958,5,100,95.5,34.5,52,70,C,70.4
+265,Khaled Ahmed,eec,giza,re,10957,5,100,95.5,34.5,52,70,C,70.4
+266,khaled Atef,eee,giza,re,10956,5,100,95.5,34.5,52,70,C,70.4
+267,Khaled soulm,aee,giza,re,10955,5,100,95.5,34.5,52,70,C,70.4
+268,Rana ali,mpe,giza,re,10954,5,100,95.5,34.5,52,70,C,70.4
+269,hosam mohamed,eec,giza,re,10953,5,100,95.5,34.5,52,70,C,70.4
+270,altayer ebn la ahd,eee,giza,re,10952,5,100,95.5,34.5,52,70,C,70.4
+271,Khaled Ahmed,aee,giza,re,10951,5,100,95.5,34.5,52,70,C,70.4
+272,khaled Atef,mpe,giza,re,10950,5,100,95.5,34.5,52,70,C,70.4
+273,Khaled soulm,eec,giza,re,10949,5,100,95.5,34.5,52,70,C,70.4
+274,Rana ali,eee,giza,re,10948,5,100,95.5,34.5,52,70,C,70.4
+275,hosam mohamed,aee,giza,re,10947,5,100,95.5,34.5,52,70,C,70.4
+276,altayer ebn la ahd,mpe,giza,re,10946,5,100,95.5,34.5,52,70,C,70.4
+277,Khaled Ahmed,eec,giza,re,10945,5,100,95.5,34.5,52,70,C,70.4
+278,khaled Atef,eee,giza,re,10944,5,100,95.5,34.5,52,70,C,70.4
+279,Khaled soulm,aee,giza,re,10943,5,100,95.5,34.5,52,70,C,70.4
+280,Rana ali,mpe,giza,re,10942,5,100,95.5,34.5,52,70,C,70.4
+281,hosam mohamed,eec,giza,re,10941,5,100,95.5,34.5,52,70,C,70.4
+282,altayer ebn la ahd,eee,giza,re,10940,5,100,95.5,34.5,52,70,C,70.4
+283,Khaled Ahmed,aee,giza,re,10939,5,100,95.5,34.5,52,70,C,70.4
+284,khaled Atef,mpe,giza,re,10938,5,100,95.5,34.5,52,70,C,70.4
+285,Khaled soulm,eec,giza,re,10937,5,100,95.5,34.5,52,70,C,70.4
+286,Rana ali,eee,giza,re,10936,5,100,95.5,34.5,52,70,C,70.4
+287,hosam mohamed,aee,giza,re,10935,5,100,95.5,34.5,52,70,C,70.4
+288,altayer ebn la ahd,mpe,giza,re,10934,5,100,95.5,34.5,52,70,C,70.4
+289,Khaled Ahmed,eec,giza,re,10933,5,100,95.5,34.5,52,70,C,70.4
+290,khaled Atef,eee,giza,re,10932,5,100,95.5,34.5,52,70,C,70.4
+291,Khaled soulm,aee,giza,re,10931,5,100,95.5,34.5,52,70,C,70.4
+292,Rana ali,mpe,giza,re,10930,5,100,95.5,34.5,52,70,C,70.4
+293,hosam mohamed,eec,giza,re,10929,5,100,95.5,34.5,52,70,C,70.4
+294,altayer ebn la ahd,eee,giza,re,10928,5,100,95.5,34.5,52,70,C,70.4
+295,Khaled Ahmed,aee,giza,re,10927,5,100,95.5,34.5,52,70,C,70.4
+296,khaled Atef,mpe,giza,re,10926,5,100,95.5,34.5,52,70,C,70.4
+297,Khaled soulm,eec,giza,re,10925,5,100,95.5,34.5,52,70,C,70.4
+298,Rana ali,eee,giza,re,10924,5,100,95.5,34.5,52,70,C,70.4
+299,hosam mohamed,aee,giza,re,10923,5,100,95.5,34.5,52,70,C,70.4
+300,altayer ebn la ahd,mpe,giza,re,10922,5,100,95.5,34.5,52,70,C,70.4
+301,Khaled Ahmed,eec,giza,re,10921,5,100,95.5,34.5,52,70,C,70.4
+302,khaled Atef,eee,giza,re,10920,5,100,95.5,34.5,52,70,C,70.4
+303,Khaled soulm,aee,giza,re,10919,5,100,95.5,34.5,52,70,C,70.4
+304,Rana ali,mpe,giza,re,10918,5,100,95.5,34.5,52,70,C,70.4
+305,hosam mohamed,eec,giza,re,10917,5,100,95.5,34.5,52,70,C,70.4
+306,altayer ebn la ahd,eee,giza,re,10916,5,100,95.5,34.5,52,70,C,70.4
+307,Khaled Ahmed,aee,giza,re,10915,5,100,95.5,34.5,52,70,C,70.4
+308,khaled Atef,mpe,giza,re,10914,5,100,95.5,34.5,52,70,C,70.4
+309,Khaled soulm,eec,giza,re,10913,5,100,95.5,34.5,52,70,C,70.4
+310,Rana ali,eee,giza,re,10912,5,100,95.5,34.5,52,70,C,70.4
+311,hosam mohamed,aee,giza,re,10911,5,100,95.5,34.5,52,70,C,70.4
+312,altayer ebn la ahd,mpe,giza,re,10910,5,100,95.5,34.5,52,70,C,70.4
+313,Khaled Ahmed,eec,giza,re,10909,5,100,95.5,34.5,52,70,C,70.4
+315,Khaled soulm,aee,giza,re,10907,5,100,95.5,34.5,52,70,C,70.4
